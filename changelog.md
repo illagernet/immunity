@@ -2,7 +2,7 @@
 
 All notable changes to this data pack will be documented in this file. [Semantic Versioning] is used.
 
-## Unreleased
+## [1.0.0] - 2022-07-31
 
 ### Added
 
@@ -22,3 +22,4 @@ All notable changes to this data pack will be documented in this file. [Semantic
   - `minecraft:chorus_flower`
 
 [Semantic Versioning]: https://semver.org/spec/v2.0.0.html
+[1.0.0]: https://github.com/illagernet/immunity/releases/tag/1.0.0
