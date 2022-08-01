@@ -2,7 +2,7 @@
 
 A Minecraft Data Pack that makes more End blocks immune to the Ender Dragon.
 
-The following blocks immune:
+The following blocks are immune:
 
 - `minecraft:ender_chest`
 - `minecraft:end_stone_bricks`
@@ -14,6 +14,11 @@ The following blocks immune:
 - `minecraft:purpur_stairs`
 - `minecraft:purpur_slab`
 - `minecraft:end_rod`
+
+The following blocks are transparent:
+
+- `minecraft:chorus_plant`
+- `minecraft:chorus_flower`
 
 ## License
 

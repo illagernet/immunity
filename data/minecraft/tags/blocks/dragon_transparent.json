@@ -1,6 +1,8 @@
 {
   "values": [
     "minecraft:light",
-    "#minecraft:fire"
+    "#minecraft:fire",
+    "minecraft:chorus_plant",
+    "minecraft:chorus_flower"
   ]
 }
